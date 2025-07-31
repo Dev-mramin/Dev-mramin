@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFxRbcqclSUkQ/profile-displaybackgroundimage-shrink_350_1400/B56Zhh7qwsH0Ac-/0/1753989691402?e=1756944000&v=beta&t=_pNxPwyaa30h1nfrR5ru8prBhzahxR5u9w9fY2rnoa4"/>
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQFxRbcqclSUkQ/profile-displaybackgroundimage-shrink_350_1400/B56Zhh7qwsH0Ac-/0/1753989691402?e=1756944000&v=beta&t=_pNxPwyaa30h1nfrR5ru8prBhzahxR5u9w9fY2rnoa4](https://media.licdn.com/dms/image/v2/D5616AQESZb91cD5Gxw/profile-displaybackgroundimage-shrink_350_1400/B56Zhh.6QCHcAc-/0/1753990540442?e=1756944000&v=beta&t=oooN0C59eatLVGp1DaS3kPbVyiJY_yfXU-jErnXPQW4)"/>
 <h1 align="center">Hello 👋, I'm Md. Ruhul Amin</h1>
 <h3 align="center">passionate Web Designer & Developer| Clean Code & Responsive Design Enthusiast</h3>
 
