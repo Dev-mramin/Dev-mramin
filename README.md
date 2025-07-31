@@ -1,4 +1,4 @@
-<img src"https://media.licdn.com/dms/image/v2/D5616AQG0-xFgSNE5YQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705935544023?e=1756944000&v=beta&t=vDh9B5PPXzlSfOu7h9D9-LPOvQVtqF1R4aLUeQOIxPw">
+<img src"https://media.licdn.com/dms/image/v2/D5616AQG0-xFgSNE5YQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705935544023?e=1756944000&v=beta&t=vDh9B5PPXzlSfOu7h9D9-LPOvQVtqF1R4aLUeQOIxPw"/>
 <h1 align="center">Hello 👋, I'm Md. Ruhul Amin</h1>
 <h3 align="center">passionate Web Designer & Developer| Clean Code & Responsive Design Enthusiast</h3>
 
