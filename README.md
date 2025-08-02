@@ -1,4 +1,3 @@
-
 <img src="https://media.licdn.com/dms/image/v2/D5616AQGi0sDSGrXRDg/profile-displaybackgroundimage-shrink_350_1400/B56ZhmwiFJHkAo-/0/1754070656347?e=1756944000&v=beta&t=R9hUOqxIW_i-NqctOlGrLgLFX-M5Uo0tMbkwycAVrns"/>
 <h1 align="center">Hello 👋, I'm Md. Ruhul Amin</h1>
 <h3 align="center">passionate Web Designer & Developer| Clean Code & Responsive Design Enthusiast</h3>
